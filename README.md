@@ -1,3 +1,3 @@
 # cssMemeSlider
 
-https://github.com/UsaAnton/cssMemeSlider/blob/gh-pages/index.html
+https://UsaAnton.github.io/cssMemeSlider/
